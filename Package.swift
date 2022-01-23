@@ -31,8 +31,5 @@ let package = Package(
         .executableTarget(
             name: "Example",
             dependencies: ["cursesKit"]),
-        .testTarget(
-            name: "cursesKitTests",
-            dependencies: ["cursesKit"]),
     ]
 )
