@@ -1,0 +1,12 @@
+//
+//  ncurses.modulemap
+//  
+//
+//  Created by Fabio Mauersberger on 21.01.22.
+//
+
+module ncurses [system] {
+    header "ncurses.h"
+    link "curses"
+    export *
+}
