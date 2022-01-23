@@ -4,7 +4,12 @@ This repo is a prototype only.
 
 ## current status
 
+This is how the example looks right now:
 ![current state](https://i.imgur.com/ojlkIH0.png)
+
+## building
+
+To "try" to example, be sure to have `ncurses` installed, `clone` this repo, `cd` and run `swift build`. Then you can execute `.build/debug/Example` to see it in action. 
 
 ## TODO
 
