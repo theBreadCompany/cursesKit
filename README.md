@@ -2,15 +2,20 @@
 
 This repo is a prototype only.
 
+## current status
+
+![current state](https://i.imgur.com/ojlkIH0.png)
+
 ## TODO
 
-- include dependency for ncurses
+- (done) include dependency for ncurses
 - write a `TerminalWindow` class or similiar which enables
 	- observation of
-  		- terminal (window) size
+  		- (done) terminal (window) size
   		- cursor position (if applicable)
-	- (key) input
+	- (done) (key) input
 	- (key) navigation
+	- (done) text customization
 
 ## use cases
 
